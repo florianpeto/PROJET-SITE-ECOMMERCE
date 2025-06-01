@@ -1,14 +1,6 @@
 📌 Présentation
 Ce projet est une application web de type e-commerce, développée en HTML, CSS, JavaScript et PHP, avec une base de données SQL.
 L’objectif est de simuler une boutique en ligne avec des fonctionnalités essentielles comme la navigation par produit, l’ajout au panier et la gestion de compte utilisateur.
-PROJET-SITE-ECOMMERCE/
-├── Page Accueil/               # Page d'accueil du site
-├── Page connexion/            # Formulaires de connexion/inscription
-├── page produit/              # Fiches produits dynamiques
-├── shoppingcart/              # Système de panier
-├── commerce.sql               # Script de création de la base de données
-└── shop_db.sql                # Exemple de données à insérer
-
 
 ⚙️ Technologies utilisées
 HTML5 – structure des pages
