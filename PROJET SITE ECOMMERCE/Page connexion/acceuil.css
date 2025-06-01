@@ -1,0 +1,576 @@
+
+@import
+
+url("https://fonts.googleapis.com/css? family-Inter:400");
+
+.hidden,
+
+.hidden * { pointer-events: none; visibility: hidden;
+
+}
+
+.web-1920-2 {
+
+align-items: flex-start;
+
+background-color: var(--white); height: 1080px; overflow: hidden;
+
+border: 1px none; display: flex;
+
+width: 1920px;
+
+}
+
+.overlap-group { 
+    height: 1275px; 
+    margin-top: -1px; 
+    position: relative; 
+    width: 3158px; }
+
+.tw {
+
+color: #f8f4f4;
+
+font-family: var (--font-family-inter); 
+font-size: var(--font-size-m); 
+font-weight: 400;
+
+left:75px;
+
+line-height: normal; 
+position: absolute;
+
+letter-spacing: 0; 
+text-align: center; 
+text-shadow: 0px 3px 3px #00000006; 
+top: 825px;
+
+transform: rotate(-89deg);
+}
+
+.number-1 {
+
+left: 298px;
+
+}
+
+.web-1920-2.number-4 {
+
+letter-spacing: 0; line-height: normal; position: absolute;
+
+top: 881px;
+
+}
+
+.package-box {
+
+height: 42px; left: 38px; object-fit: cover; position: absolute; top: 50px; width: 42px; }
+
+.rectangle-1 {
+
+background-color: var(--white); 
+border: 1px solid; 
+border-color: var(--dove-arav);
+border: 1px solid; border-color:var(--dove-gray);
+
+height: 1080px;
+
+left: 0;
+
+position: absolute;
+
+top: 1px; width: 140px;
+
+}
+
+.place {
+
+color: #e8eee6;
+
+font-family: var(--font-family-inter);
+
+font-size: var(--font-size-m);
+
+font-weight: 400; left: 278px;
+
+letter-spacing: 0; line-height: normal; position: absolute;
+
+top: 55px;
+
+}
+
+.number {
+
+color: #fbf6f6;
+
+font-family: var(--font-family-inter);
+
+font-size: var(--font-size-m); font-weight: 400;
+
+left: 68px;
+
+letter-spacing: 0;
+
+line-height: normal;
+
+position: absolute; text-align: center;
+text-shadow: 0px 3px 3px #00000066;
+
+top: 762px;
+
+transform: rotate(-89deg);
+
+}
+
+.meat {
+
+color: #f3eded;
+
+font-family: var(--font-family-inter); font-size: var(--font-size-1);
+
+font-weight: 400; left: 1129px;
+
+letter-spacing: 0;
+
+line-height: normal; position: absolute;
+
+top: 925px;
+
+}
+
+.cattle {
+
+color: #f9f6f6; font-family: var(--font-family-inter);
+
+font-size: var (--font-size-1);
+
+font-weight: 400; left: 692px;
+
+letter-spacing: 0;
+
+line-height: normal; position: absolute;
+
+top: 925px;
+
+}
+
+.chickens-and-oxen-pigs-cows { 
+    -webkit-text-stroke: 1px var(--silver);
+    color:#7e7e7e;
+    font-family:var(--font-family-inter);
+
+    font-size:var(--font-size-s); 
+    font-weight:400;
+    
+    left:300px;
+    
+    letter-spacing: 0; 
+    line-height: normal; 
+    position: absolute;
+    
+    top: 976px;
+}
+    
+    .number-2 { 
+        left: 692px;
+    }
+    
+    .rectangle-8 { background-color: var(--white); height: 67px; left: 1602px; opacity: 0.03; position: absolute;
+     
+    
+    top: 37px; width: 76px;
+    }
+    
+    .rectangle-3 { 
+    background-color: var(--white);
+     border: 1px solid; 
+     border-color: var(--dove-gray); 
+     height:67px;
+     left: 88px; 
+     position: absolute; 
+     top: 36px;
+     width:76px;
+    }
+
+.retangle-12  {
+    background-color: #111111;
+     height: 250px; 
+     left: 1520px; 
+     position: absolute; 
+     top: 881px; 
+     width: 400px;
+
+}
+
+.rectangle-14 {
+
+background-color: #efefef; 
+border: 1px solid; 
+border-color: var(--dove-gray); 
+height: 210px; 
+left: 1090px; 
+position: absolute; 
+top: 871px; 
+width: 480px;
+
+}
+
+.fb {
+     color: #0f0f0f;
+     font-family: var(--font-family-inter); 
+     font-size:var(--font-size-m); 
+     font-weight:400; 
+     left:68px; 
+     letter-spacing:0;
+    line-height: normal;
+
+position: absolute; 
+text-align: center;
+text-shadow: 0px 3px 3px #00000066; 
+top: 972px;
+transform: rotate(-89deg);
+}
+
+.explore-the-world-of-betailles {
+
+color: #f9f2f2; font-family: var (--font-family-inter);
+
+font-size: var(--font-size-xxl);
+
+font-weight: 400;
+
+left: 278px;
+
+letter-spacing: 0;
+
+line-height: normal; opacity: 0.88;
+
+position: absolute; 
+text-shadow: 0px 3px 25px #00000052; 
+width: 2880px;
+
+top: 240px;
+
+}
+
+-play-button { height: 65px;
+
+object-fit: cover;
+
+left: 1704px; 
+position: absolute; 
+top: 935px; 
+width: 65px;
+}
+
+.poultry {
+
+color: #fef4f4;
+font-family: var(--font-family-inter);
+
+left: 298px;
+
+font-size: var(--font-size-1); font-weight: 400; position: absolute;
+
+letter-spacing: 0; line-height: normal;
+
+top: 922px;
+
+}
+
+
+
+.herd-cows-around-tre { 
+    height: 254px;
+    left: 1518px; 
+    object-fit: cover; 
+    position: absolute; 
+    width: 402px;
+
+top: 827px;
+
+}
+
+.about-us {
+
+color: #f8f5f5;
+
+font-family: var(--font-family-inter); 
+font-size: var(--font-size-m);
+
+font-weight: 400; 
+left: 692px;
+
+letter-spacing: 0;
+
+line-height: normal;
+
+position: absolute; 
+top: 55px;
+}
+
+.rectangle-10 { 
+    background-color: #a6e48b;
+    border: 1px solid; 
+    border-color: var(--dove-gray); 
+    box-shadow: 0px 3px 3px #00000029; 
+    height: 184px; 
+    left: 66px; 
+    position: absolute; 
+    top: 261px;
+
+    width: 8px;
+}
+    
+    .alive-or-dead { 
+        color: #c3bcbc; 
+        font-family: var(--font-family-inter); 
+        font-size: var(--font-size-xs); 
+        font-weight: 400; 
+        left: 1117px;
+         letter-spacing: 0; 
+        line-height: normal; 
+        position: absolute;
+    top: 975px; 
+    width: 300px;
+    }
+    
+    .rectangle-13 {
+    
+    background-color: #8a0a0a; border: 1px solid;
+    
+    border-color: var(--dove-gray); height: 210px;
+    
+    left: 280px;
+    
+    opacity: 0.04;
+    position: absolute; top: 871px; width: 400px; }
+
+.products {
+
+color: #f6fbf6;
+font-size: var(--font-size-m);
+left: 416px;
+font-family: var (--font-family-inter); 
+font-weight: 400; 
+position: absolute; 
+top: 55px; 
+letter-spacing: 0; 
+line-height: normal;
+
+
+
+
+}
+
+.rectangle-11 { 
+    background-color: #0b0a0a; 
+    opacity: 0.68; 
+    height: 210px;
+    position: absolute;
+    left: 278px;
+    top: 871px;
+
+width: 1642px;
+ }
+
+
+
+.few-cows-meadow { 
+    height: 1080px; 
+    left: 0; 
+    object-fit: cover; 
+    position: absolute; 
+    top: 1px;
+    width: 1920px;
+
+}
+.service {
+
+    color: #fef7f7;
+    
+    font-family: var(--font-family-inter); font-size: var(--font-size-m);
+    
+    font-weight: 400;
+    
+    left: 554px;
+    
+    letter-spacing: 0;
+    
+    line-height: normal; position: absolute;
+    
+    top: 55px;
+    
+    }
+    
+    .cattle-cows-animals-herds {
+    
+    color: var(--silver); 
+    font-family: var (--font-family-inter);
+    
+    font-size: var (--font-size-s);
+    
+    font-weight: 400; 
+    left: 692px;
+    
+    letter-spacing: 0; 
+    line-height: normal; 
+    position: absolute;
+    
+    top: 977px;
+    
+    }
+    
+    .rectangle-2 {
+    
+    border: 1px solid; border-color: var(--dove-gray);
+    
+    height: 137px;
+    
+    background-color: var(--white); 
+    width: 1641px;
+    
+    left: 140px;
+    
+    position: absolute;
+    top:1px;
+    width: 1641px;
+
+}
+
+.in {
+
+color: #f1efef;
+
+font-family: var(--font-family-inter); font-size: var(--font-size-m);
+
+font-weight: 400;
+
+left: 73px;
+
+letter-spacing: 0; line-height: normal;
+
+position: absolute;
+
+text-align: center; text-shadow: 0px 3px 3px #00000066;
+
+top: 911px;
+
+transform: rotate(-89deg);
+
+}
+
+.trac-1 {
+
+height: 516px;
+
+left: 68px;
+
+position: absolute;
+
+top: 261px;
+
+width: 4px;
+
+}
+
+.start-buying {
+
+color: #131212;
+
+font-family: var(--font-family-inter); font-size: var (--font-size-x1);
+font-size: var(--font-size-x1); font-weight: 400;
+
+left: 358px;
+
+letter-spacing: 0;
+
+line-height: normal; position: absolute;
+
+text-align: center;
+
+top: 702px;
+
+}
+
+.rectangle-9 {
+
+background-color: #b5ea9b; 
+border-radius: 47px; 
+box-shadow: 0px 3px 3px #00000038;
+
+height: 94px;
+
+left: 278px;
+
+opacity: 0.7; position: absolute;
+
+top: 675px;
+
+width: 332px;
+}
+
+.rectangle-6 {
+
+background-color: var(--white);
+
+border: 1px solid;
+
+border-color: var(--dove-gray);
+
+height: 67px; left: 1705px;
+
+position: absolute;
+
+top: 37px;
+width: 76px;
+
+}
+
+.number-3 {
+
+left: 1129px; }
+
+.text {
+
+color: var(--black);
+
+left: 0;
+
+font-family: var (--font-family-inter); font-size: var(--font-size-xxs); font-weight: 400; letter-spacing: 0; line-height: normal; position: absolute; top: 0; }
+
+.grid {
+
+height: 42px;
+
+left: 1714px;
+
+object-fit: cover; 
+position: absolute; 
+top: 50px; 
+width: 42px;
+}
+
+.ellipse-2 { 
+    background-color: var(--white);
+    border-radius: 54px/50px; height: 100px; opacity: 0.9;
+
+left: 1673px;
+
+position: absolute;
+
+top: 917px; width: 108px;
+}
+
+.search {
+
+left: 1627px;
+
+
+
+height: 42px; 
+object-fit: cover;
+ position: absolute; 
+ top: 54px;
+ width:42px;
+}
